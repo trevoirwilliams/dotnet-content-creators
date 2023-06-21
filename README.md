@@ -235,6 +235,15 @@ All creators under this section must have published something in 2022.
   | Tim Corey | [YouTube](https://youtube.com/user/IAmTimCorey), [Podcast](https://iamtimcorey.com/p/podcast)
   | Wes Doyle | [YouTube](https://youtube.com/c/WesDoyle)
 
+### Uzbekistan
+<img src="4x3/uz.svg" height="35">
+
+  | Name  | Main Channel |
+  | ------------- | ------------- |
+  | Mukhammadkarim Tukhtaboyev | [Blog](https://www.dot-net.uz/), [YouTube](https://www.youtube.com/@JanobPanda), [dotnetuz](https://www.youtube.com/@dotnetuz)
+  | Farkhod Dadajanov | [YouTube](https://www.youtube.com/@virtualdars)
+  | Elbek Normurodov | [YouTube](https://www.youtube.com/@DasturlashniOrganamiz)
+  | Wahid Abduhakimov | [YouTube](https://www.youtube.com/@wahidustoz/featured)
 
 
 ### Official MSFT / .NET Foundation content resources / Xamarin
